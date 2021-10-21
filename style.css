@@ -1,0 +1,25 @@
+body
+{
+background-image: linear-gradient(to right top, #13e3f1, #10c1e0, #8a0678, #6a0ba1, #0662b8);
+}
+b{
+    font-family: 'Chakra Petch', sans-serif;
+    color:mediumseagreen;
+    font-weight: 900;
+    font-size: 34px;
+}
+p{
+    font-style:italic;
+    color:rgb(179, 60, 60);
+    font-weight: 90;
+    font-size: 24px;  
+}
+label{
+    font-family: 'Pacifico', cursive;
+    color: mintcream;
+}
+h4{
+    color: red;
+    font-family: monospace;
+    font-weight: 900;
+}
